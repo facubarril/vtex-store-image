@@ -1,7 +1,12 @@
 {
   "vendor": "kudosio",
+<<<<<<< HEAD
   "name": "kudosio.store-image",
   "version": "0.24.0",
+=======
+  "name": "store-image",
+  "version": "0.20.0",
+>>>>>>> 234e011 (Update manifest.json)
   "title": "VTEX Image",
   "description": "Set of VTEX components to handle images with added date functionality",
   "builders": {
