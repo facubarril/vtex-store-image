@@ -41,5 +41,7 @@
   "admin/editor.store-image.src.title": "Imagem",
   "admin/editor.store-image.title.description": "Título a ser mostrado ao passar o mouse pela imagem",
   "admin/editor.store-image.title.title": "Título da imagem",
-  "admin/editor.store-image.title": "Imagem"
+  "admin/editor.store-image.title": "Imagem",
+  "admin/editor.image.initialDate.titile": "Mostrar despois",
+  "admin/editor.image.endDate.titile": "Mostrar antes"
 }

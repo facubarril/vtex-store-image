@@ -41,5 +41,7 @@
   "admin/editor.store-image.src.title": "Image",
   "admin/editor.store-image.title.description": "Title shown on hover",
   "admin/editor.store-image.title.title": "Image title",
-  "admin/editor.store-image.title": "Image"
+  "admin/editor.store-image.title": "Image",
+  "admin/editor.image.initialDate.titile": "Show from",
+  "admin/editor.image.endDate.titile": "Show until"
 }
