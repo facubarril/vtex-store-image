@@ -87,8 +87,6 @@ function Image(props: ImageProps) {
     specificHeight,
     srcSet = '',
     sizes = '',
-    initialDisplayDate,
-    endDisplayDate,
     link,
     title,
     experimentalPreventLayoutShift,
@@ -249,14 +247,6 @@ function Image(props: ImageProps) {
     },
     once: true,
   })
-
-  const today = new Date(),
-        initialDate = new Date(`${initialDisplayDate}-0300`),
-        endDate = new Date(`${endDisplayDate}-0300`)
-
-  const isActive = today > initialDate && today < endDate;
-
-  if (!isActive) return <></>
 
   return experimentalPreventLayoutShift ? (
     <span

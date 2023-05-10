@@ -43,5 +43,7 @@
   "admin/editor.store-image.title.title": "Título de la imagen",
   "admin/editor.store-image.title": "Imagen",
   "admin/editor.image.initialDate.titile": "Mostrar desde",
-  "admin/editor.image.endDate.titile": "Mostrar hasta"
+  "admin/editor.image.endDate.titile": "Mostrar hasta",
+  "admin/editor.image.initialDate.description": "Indica desde que fecha se debe mostrar",
+  "admin/editor.image.endDate.description": "Indica hasta que fecha se debe mostrar"
 }

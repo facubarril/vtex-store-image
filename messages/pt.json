@@ -43,5 +43,7 @@
   "admin/editor.store-image.title.title": "Título da imagem",
   "admin/editor.store-image.title": "Imagem",
   "admin/editor.image.initialDate.titile": "Mostrar despois",
-  "admin/editor.image.endDate.titile": "Mostrar antes"
+  "admin/editor.image.endDate.titile": "Mostrar antes",
+  "admin/editor.image.initialDate.description": "Indica a partir de qual data pode ser visualizada",
+  "admin/editor.image.endDate.description": "Indica até que data pode ser visualizada"
 }
